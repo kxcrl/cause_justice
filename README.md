@@ -1,4 +1,4 @@
-# CauseJustice
+# Cause Justice
 
 To start your new Phoenix application:
 

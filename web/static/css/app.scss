@@ -91,6 +91,8 @@ table tr:nth-child(even) > td {
 .jumbotron {
   text-align: center;
   border-bottom: 1px solid #e5e5e5;
+  background-color: #fff;
+
 }
 
 /* Supporting marketing content */
@@ -110,9 +112,21 @@ table tr:nth-child(even) > td {
   /* Space out the masthead */
   .header {
     margin-bottom: 30px;
+    border-bottom: 0px;
   }
+
   /* Remove the bottom border on the jumbotron for visual effect */
   .jumbotron {
     border-bottom: 0;
+
+    h1 {
+      font-size: 40px;
+    }
+
+    p {
+      max-width: 300px;
+      text-align: center;
+      margin: 0 auto;
+    }
   }
 }

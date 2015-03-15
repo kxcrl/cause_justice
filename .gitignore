@@ -1,3 +1,6 @@
+# OS X artifacts
+.DS_Store
+
 # Mix artifacts
 /_build
 /deps
